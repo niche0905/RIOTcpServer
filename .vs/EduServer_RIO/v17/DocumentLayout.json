@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "D:\\GitHub\\RIOTcpServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\CircularBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\CircularBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\CircularBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\CircularBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\ClientSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\ClientSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\ClientSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\ClientSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\CircularBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\CircularBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RioContext.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\RioContext.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RioContext.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\RioContext.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RIOManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,20 +23,36 @@
       "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\RIOManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\EduServer_RIO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\EduServer_RIO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\EduServer_RIO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\EduServer_RIO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\ClientSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\ClientSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\ClientSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\ClientSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RioContext.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\RioContext.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\SessionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\SessionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\ObjectPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\ObjectPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\EduServer_RIO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\EduServer_RIO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\EduServer_RIO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|solutionrelative:EduServer_RIO\\EduServer_RIO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E38247C2-9449-4A10-97F5-0AD0A2C577C4}|EduServer_RIO\\EduServer_RIO.vcxproj|D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -82,7 +86,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\stdafx.h",
+              "RelativeDocumentMoniker": "EduServer_RIO\\stdafx.h",
+              "ToolTip": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\stdafx.h",
+              "RelativeToolTip": "EduServer_RIO\\stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-02T02:20:23.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "SessionManager.cpp",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\SessionManager.cpp",
               "RelativeDocumentMoniker": "EduServer_RIO\\SessionManager.cpp",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ClientSession.cpp",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\ClientSession.cpp",
               "RelativeDocumentMoniker": "EduServer_RIO\\ClientSession.cpp",
@@ -102,36 +119,37 @@
               "RelativeToolTip": "EduServer_RIO\\ClientSession.cpp",
               "ViewState": "AgIAAHIAAAAAAAAAAAAAAJ4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-14T13:04:05.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T13:04:05.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "EduServer_RIO.cpp",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\EduServer_RIO.cpp",
               "RelativeDocumentMoniker": "EduServer_RIO\\EduServer_RIO.cpp",
               "ToolTip": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\EduServer_RIO.cpp",
               "RelativeToolTip": "EduServer_RIO\\EduServer_RIO.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-14T13:04:45.545Z"
+              "WhenOpened": "2025-07-14T13:04:45.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "EduServer_RIO.h",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\EduServer_RIO.h",
               "RelativeDocumentMoniker": "EduServer_RIO\\EduServer_RIO.h",
               "ToolTip": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\EduServer_RIO.h",
               "RelativeToolTip": "EduServer_RIO\\EduServer_RIO.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-14T13:04:44.681Z"
+              "WhenOpened": "2025-07-14T13:04:44.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "RioContext.cpp",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RioContext.cpp",
               "RelativeDocumentMoniker": "EduServer_RIO\\RioContext.cpp",
@@ -139,25 +157,24 @@
               "RelativeToolTip": "EduServer_RIO\\RioContext.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-14T13:03:21.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T13:03:21.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "RIOManager.cpp",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RIOManager.cpp",
               "RelativeDocumentMoniker": "EduServer_RIO\\RIOManager.cpp",
               "ToolTip": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RIOManager.cpp",
               "RelativeToolTip": "EduServer_RIO\\RIOManager.cpp",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAWwKAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-14T13:03:02.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ObjectPool.h",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\ObjectPool.h",
               "RelativeDocumentMoniker": "EduServer_RIO\\ObjectPool.h",
@@ -169,33 +186,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "RioContext.h",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RioContext.h",
               "RelativeDocumentMoniker": "EduServer_RIO\\RioContext.h",
               "ToolTip": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RioContext.h",
               "RelativeToolTip": "EduServer_RIO\\RioContext.h",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAWwCUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-14T12:59:44.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "RIOManager.h",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RIOManager.h",
               "RelativeDocumentMoniker": "EduServer_RIO\\RIOManager.h",
               "ToolTip": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\RIOManager.h",
               "RelativeToolTip": "EduServer_RIO\\RIOManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-14T12:59:43.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FastSpinlock.h",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\FastSpinlock.h",
               "RelativeDocumentMoniker": "EduServer_RIO\\FastSpinlock.h",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FastSpinlock.cpp",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\FastSpinlock.cpp",
               "RelativeDocumentMoniker": "EduServer_RIO\\FastSpinlock.cpp",
@@ -219,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Exception.h",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\Exception.h",
               "RelativeDocumentMoniker": "EduServer_RIO\\Exception.h",
@@ -231,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Exception.cpp",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\Exception.cpp",
               "RelativeDocumentMoniker": "EduServer_RIO\\Exception.cpp",
@@ -243,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CircularBuffer.h",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\CircularBuffer.h",
               "RelativeDocumentMoniker": "EduServer_RIO\\CircularBuffer.h",
@@ -256,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CircularBuffer.cpp",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\CircularBuffer.cpp",
               "RelativeDocumentMoniker": "EduServer_RIO\\CircularBuffer.cpp",
@@ -269,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ClientSession.h",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\ClientSession.h",
               "RelativeDocumentMoniker": "EduServer_RIO\\ClientSession.h",
@@ -277,12 +294,11 @@
               "RelativeToolTip": "EduServer_RIO\\ClientSession.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-14T12:58:11.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T12:58:11.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "D:\\GitHub\\RIOTcpServer\\EduServer_RIO\\ReadMe.txt",
               "RelativeDocumentMoniker": "EduServer_RIO\\ReadMe.txt",
